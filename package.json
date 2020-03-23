@@ -18,8 +18,7 @@
     "build": "react-scripts build",
     "deploy": "gcloud app deploy",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "gcp-build": "yarn run build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
