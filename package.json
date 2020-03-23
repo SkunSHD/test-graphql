@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gcloud app deploy",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "gcp-build": "yarn run build"
